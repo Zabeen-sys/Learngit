@@ -1,0 +1,8 @@
+1. Sign into AWS management console & open Amazon redshift console, select the region according to your requirement.
+
+2. On the redshift dashboard select launch cluster, enter the values on cluster details page and click on continue
+ 
+* Cluster Identifier---> for eg type examplecluster
+* Database Name---> leave this blank. Amazon redshift creates default DB named dev
+* Database Port---> 
+   
